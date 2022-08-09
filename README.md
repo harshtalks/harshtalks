@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshtalks
+- 👋 Hi, Roses are #FF0000, violets are #0000FF and I’m @harshtalks
 - 🤍 JavaScript is Love, JavaScript is Life
 - 🌱 I’m currently learning TypeScript and Deep Learning with JS
 - 💞️ I’m looking to collaborate on frontend development and architecture
