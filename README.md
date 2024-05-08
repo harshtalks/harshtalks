@@ -1,6 +1,6 @@
 - 👋 Hi, Roses are #FF0000, violets are #0000FF and I’m @harshtalks
 - 🤍 Typescript is Love, Typescript is Life
-- 🌱 I’m currently exploring web3 with Typescript and NodeJs
+- 🌱 I’m currently learning about Effects
 - 💞️ I’m looking to collaborate on frontend development and architecture
 - 📫 How to reach me [@harshtalks](https://instagram.com/harshtalks)
 
