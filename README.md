@@ -1,5 +1,5 @@
 - 👋 Hi, Roses are #FF0000, violets are #0000FF and I’m @harshtalks
-- 📫 How to reach me [@harshtalks](https://instagram.com/harshtalks)
+- 📫 Reach out to me [@harshtalks](https://instagram.com/harshtalks)
 
 <!---
 harshtalks/harshtalks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GiCancel changestHub profile.
