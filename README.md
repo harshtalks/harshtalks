@@ -1,4 +1,6 @@
-- 👋 Hi, Roses are #FF0000, violets are #0000FF and I’m @harshtalks
+- 👋 Frontend Engineer 2 at a very fun organisation
+- 😮 Most likely to yell FP jargon, as long as your aunt is watching.
+- 🦺 Don't ask how many story points I lose to achieve type safety in a fundamentally flawed programming language
 - 📫 Reach out to me [@harshtalks](https://instagram.com/harshtalks)
 
 <!---
