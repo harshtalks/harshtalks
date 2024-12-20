@@ -1,6 +1,6 @@
 - 👋 Frontend Engineer 2 at a very fun organisation
-- 😮 Most likely to yell FP jargon, as long as your aunt is watching.
-- 🦺 Don't ask how many story points I lose to achieve type safety in a fundamentally flawed programming language
+- 😮 Will take yo aunt out for dinner and tell her everything about monads and other fp jargons.
+- 🦺 Don't ask how many story points I lose achieving type safety in a fundamentally flawed programming language
 - 📫 Reach out to me [@harshtalks](https://instagram.com/harshtalks)
 
 <!---
